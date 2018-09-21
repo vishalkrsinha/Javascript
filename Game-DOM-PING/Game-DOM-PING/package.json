@@ -1,0 +1,9 @@
+{
+  "name": "game-dom-ping",
+  "version": "0.0.0",
+  "description": "Game-DOM-PING",
+  "main": "app.js",
+  "author": {
+    "name": "vk4cs"
+  }
+}
