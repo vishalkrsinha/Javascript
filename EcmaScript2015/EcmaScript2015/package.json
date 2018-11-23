@@ -1,0 +1,9 @@
+{
+  "name": "ecma-script2015",
+  "version": "0.0.0",
+  "description": "EcmaScript2015",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
